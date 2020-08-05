@@ -1,9 +1,11 @@
 # ISPy3
-Tools for Integrated-light Spectroscopy with Python3
+Tools for Integrated-light Spectroscopy with Python3.
 
-ISPy3 is a collection of Python routines that can be used to model and analyse the integrated-light spectra of stellar populations. 
-The actual spectral synthesis and related tasks (setting up model atmospheres, etc) is done via external codes, available via the links below.
+ISPy3 is a collection of Python routines that can be used to model and analyse the spectra of stars and stellar populations. 
+The actual spectral modelling and related tasks (setting up model atmospheres, etc) is done via external codes, available via the links below.
 Currently, the Kurucz codes (ATLAS/SYNTHE) and MARCS/TurboSpectrum are supported.
+
+External links:
 
 Kurucz website (ATLAS, SYNTHE, line lists, etc): http://kurucz.harvard.edu
 

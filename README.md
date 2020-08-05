@@ -9,6 +9,8 @@ Kurucz website (ATLAS, SYNTHE, line lists, etc): http://kurucz.harvard.edu
 
 Atmos, Observatoire de Paris (Linux versions of the Kurucz codes + line lists, ODFs, etc): http://atmos.obspm.fr
 
+Castelli website (Linux versions of the Kurucz codes + models, line lists, etc): http://wwwuser.oats.inaf.it/castelli/
+
 MARCS homepage: https://marcs.astro.uu.se/index.php
 
 Turbospectrum and associated data (Bertrand Plez): https://www.lupm.in2p3.fr/users/plez/ 

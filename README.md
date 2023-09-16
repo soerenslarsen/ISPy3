@@ -16,3 +16,5 @@ MARCS homepage: https://marcs.astro.uu.se/index.php
 Turbospectrum and associated data (Bertrand Plez): https://www.lupm.in2p3.fr/users/plez/ 
 
 Turbospectrum 2019 (Github): https://github.com/bertrandplez/Turbospectrum2019/releases
+
+Turbospectrum NLTE: https://github.com/bertrandplez/Turbospectrum_NLTE
